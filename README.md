@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adham Algohary</h1>
 <h3 align="center">Mobile App developer specialized in front end (flutter) and Backend, interested in computer science.</h3>
 
+![Sw](https://user-images.githubusercontent.com/103793555/222238248-b5e46489-3d8d-4758-99da-6b55aed7c6d6.gif)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blackedhorse" alt="blackedhorse" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/adhom71932707" target="blank"><img src="https://img.shields.io/twitter/follow/adhom71932707?logo=twitter&style=for-the-badge" alt="adhom71932707" /></a> </p>
 
 - 🔭 I’m currently working on [Teacher App](https://github.com/BlackedHorse/teach_app_ui)
