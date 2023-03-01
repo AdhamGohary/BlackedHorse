@@ -20,7 +20,7 @@
 <a href="https://twitter.com/adhom71932707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adhom71932707" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adham-algohary-953a30237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adham-algohary-953a30237/" height="30" width="40" /></a>
 <a href="https://fb.com/adhamelgoharyy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adhamelgoharyy/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uczlhg9ijxf8l_1ctpgrp5_q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uczlhg9ijxf8l_1ctpgrp5_q" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c//channel/UCZLHg9IJxf8L_1ctpgrP5_Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uczlhg9ijxf8l_1ctpgrp5_q" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
