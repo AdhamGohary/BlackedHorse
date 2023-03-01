@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Adham Algohary</h1>
 <h3 align="center">Mobile App developer specialized in front end (flutter) and Backend, interested in computer science.</h3>
-![SW](https://user-images.githubusercontent.com/103793555/222239870-c8866498-1b2f-4afc-bd3c-0112abce7b0d.gif)
+
+![software developer](https://user-images.githubusercontent.com/103793555/222241318-9b60f2d5-e206-4287-8b43-92924475bc04.gif)
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blackedhorse" alt="blackedhorse" /></a> </p>
 <p align="left"> <a href="https://twitter.com/adhom71932707" target="blank"><img src="https://img.shields.io/twitter/follow/adhom71932707?logo=twitter&style=for-the-badge" alt="adhom71932707" /></a> </p>
-![SW](https://user-images.githubusercontent.com/103793555/222239910-0aefe611-2aa5-4c23-b070-cfcd0c08c2f0.gif)
 
 - 🔭 I’m currently working on [Teacher App](https://github.com/BlackedHorse/teach_app_ui)
 
