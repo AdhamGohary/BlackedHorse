@@ -8,6 +8,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blackedhorse" alt="blackedhorse" /></a> </p>
 <p align="left"> <a href="https://twitter.com/adhom71932707" target="blank"><img src="https://img.shields.io/twitter/follow/adhom71932707?logo=twitter&style=for-the-badge" alt="adhom71932707" /></a> </p>
 
+![software developer](https://user-images.githubusercontent.com/103793555/222241768-7f9c47be-67f0-46ff-b963-c749995c3dd7.gif)
+
+
 - 🔭 I’m currently working on [Teacher App](https://github.com/BlackedHorse/teach_app_ui)
 
 - 🌱 I’m currently learning **Json**
