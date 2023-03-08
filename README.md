@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adham Algohary</h1>
-<h3 align="center">Mobile App developer specialized in front end (flutter) and Backend, interested in computer science.</h3>
+<h3 align="center">Sofrware Developer </h3>
 
 <!-- ![software developer](https://user-images.githubusercontent.com/103793555/222241318-9b60f2d5-e206-4287-8b43-92924475bc04.gif) -->
 
